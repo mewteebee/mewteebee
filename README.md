@@ -1,6 +1,6 @@
 Hello, my name is Alex. <br>
 I am a junior software developer. <br>
-I am currently learning C++ and Go. <br>
+I am currently learning Go. <br>
 Looking to collaborate on challenging open source projects. 
 
 <!---
