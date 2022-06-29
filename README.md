@@ -5,7 +5,8 @@ I am passionate about technology and a huge football/soccer fan <br>
 Read more about my work and interests on my medium:<br>
 https://medium.com/@alexandermutebi<br>
 <br>
-CV: https://pdfhost.io/v/dz5PEHWOl_CV_v2
+CV:<br> 
+https://pdfhost.io/v/dz5PEHWOl_CV_v2
 
 <!---
 mewteebee/mewteebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
