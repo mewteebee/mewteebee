@@ -1,5 +1,5 @@
 Hello, my name is Alex. <br>
-I am a junior software developer from London/Cape Town.<br>
+I am a software developer from London/Cape Town.<br>
 I am currently learning C# and Go. <br>
 I am passionate about technology and a huge football/soccer fan. <br>
 <br>
