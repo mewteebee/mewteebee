@@ -6,6 +6,9 @@ I am passionate about technology and love to learn. <br>
 Read more about my work and interests on my medium:<br>
 https://medium.com/@alexandermutebi<br>
 <br>
+Find me on Linkedin:<br>
+https://www.linkedin.com/in/alexander-mutebi/
+<br>
 Resume/CV:<br> 
 https://pdfhost.io/v/LQahHbhmM_CV_v2
 
