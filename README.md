@@ -9,8 +9,7 @@ https://medium.com/@alexandermutebi<br>
 Find me on Linkedin:<br>
 https://www.linkedin.com/in/alexander-mutebi/<br>
 <br>
-Resume/CV:<br> 
-https://pdfhost.io/v/LQahHbhmM_CV_v2
+
 
 <!---
 mewteebee/mewteebee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
