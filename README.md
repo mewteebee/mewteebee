@@ -4,4 +4,4 @@ I am a software developer from London/Cape Town.<br>
 I am a tech-generalist with a passion for all things digital and data driven. <br>
 <br>
 My stack: <br>
-Python - React - Vue - C# - Go
+Python - C++
